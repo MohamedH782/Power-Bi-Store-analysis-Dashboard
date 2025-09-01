@@ -49,3 +49,32 @@ It simulates a **store performance analysis** project, covering sales, employees
 ---
 
 ## 📂 Repository Structure
+📁 Store-Analysis
+├── Store Analysis.pbix # Power BI file
+├── README.md # Project documentation
+└── Data/ # (Optional) Source data files
+
+
+
+## 🛠️ How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MohamedH782/Power-Bi-Store-analysis-Dashboard.git
+Open Store Analysis.pbix in Power BI Desktop.
+
+Explore the dashboard and slicers interactively.
+
+📸 Dashboard Preview
+(Add a screenshot of your dashboard here, e.g., screenshot.png)
+
+📌 Skills Demonstrated
+Data Cleaning & Transformation (Power Query)
+
+Data Modeling (Star Schema, Relationships)
+
+DAX Calculations (KPIs, aggregations, TOPN logic)
+
+Dashboard Design & Visualization
+
+📄 License
+This project is licensed under the MIT License – feel free to use and adapt.
